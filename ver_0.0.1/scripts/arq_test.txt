@@ -1,0 +1,3 @@
+01 - Este é um arquivo teste.
+02 - Este arquivo é do tipo .txt
+03 - Apenas par efeito de teste.
